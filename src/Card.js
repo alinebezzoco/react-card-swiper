@@ -3,7 +3,7 @@ import styled from 'styled-components';
 
 const Card = styled.div` 
     background-color: yellow;
-    width: ${props => props.width || "320px"};; 
+    width: ${props => props.width || "320px"};
     height: 400px;
 
     p { 
